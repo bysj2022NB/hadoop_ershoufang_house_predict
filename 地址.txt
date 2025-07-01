@@ -1,0 +1,25 @@
+https://www.bilibili.com/video/BV12fYYe7EJM/?buvid=XUBA74ABBEC54BDC3AA9C3A023D76468978F1&from_spmid=main.my-fav.0.0&is_story_h5=false&mid=xNXJAgTuXX%2FKN%2BOF8DdZp38FTQ%2FSZMtL1rElX6M3iMo%3D&p=2&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=48f61ddb-c88b-45c6-967c-b0cd52bd5ff7&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1751282134&unique_k=ZHCCAJD&up_id=1425554898
+
+计算机毕业设计Hadoop二手房价格预测系统 二手房可视化大屏 Python爬虫(源码+LW+PPT+讲解)
+https://www.bilibili.com/video/BV1E3gCzcExq/?spm_id_from=333.1387.homepage.video_card.click
+环境搭建：
+Linux(Centos7)
+Hadoop,Spark,Zookeeper,Kafka,Hbase...
+大数据组件工具IDEA，Xshell， xftp，Sqlyog
+Mysql
+
+数据采集：
+Python 58同城二手房数据
+
+数据存储：
+Mysql、 HDFS
+清洗后的数据存储到HDFS
+分析完的数据存储在Mysql
+
+数据分析：
+不同建造时间的房屋数量、不同区城占比、区域二手房平均价格、地区面积数量、不同户型的房屋数量、
+不同地区朝向数量、不同地区房屋总数
+
+业务系统：
+Django/大屏
+柱状图、折线图、饼图
